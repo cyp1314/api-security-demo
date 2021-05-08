@@ -1,6 +1,11 @@
 ### 实现接口安全性处理
 
 前端代码
+
+![](https://i.loli.net/2021/05/08/OTESnF3drB6XUKY.png)
+
+![](https://i.loli.net/2021/05/08/dtiDmWnsO1X4RCU.png)
+
 ```javascript
 var data = { id: 1, username: "lisi", password: "123456" };
 
